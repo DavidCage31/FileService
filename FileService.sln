@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileService", "FileService\FileService.csproj", "{5EF159DA-666D-408F-8607-CFB0F2EFCD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServiceTests", "FileServiceTests\FileServiceTests.csproj", "{EF94DA92-E427-4BAC-965D-DF2901EDF0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF159DA-666D-408F-8607-CFB0F2EFCD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF159DA-666D-408F-8607-CFB0F2EFCD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF159DA-666D-408F-8607-CFB0F2EFCD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF159DA-666D-408F-8607-CFB0F2EFCD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF94DA92-E427-4BAC-965D-DF2901EDF0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF94DA92-E427-4BAC-965D-DF2901EDF0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF94DA92-E427-4BAC-965D-DF2901EDF0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF94DA92-E427-4BAC-965D-DF2901EDF0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315A683E-25AD-40FB-8FF6-5E1FD29803E0}
+	EndGlobalSection
+EndGlobal
